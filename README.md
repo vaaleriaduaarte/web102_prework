@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![assets/web102prework.gif]
+![Video Walkthrough](https://github.com/vaaleriaduaarte/web102_prework/raw/main/assets/web102prework.gif)
+
 
 
 
