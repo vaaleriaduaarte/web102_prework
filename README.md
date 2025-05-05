@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Video Walkthrough]
+![assets/web102prework.gif]
 
 
 
